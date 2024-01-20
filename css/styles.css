@@ -58,18 +58,19 @@ h3 {
 .nav-menu {
     font-weight: 500;
     line-height: 150%;
+    color: #2E2F42;
 }
 
 .nav-menu:hover, .nav-menu:focus {
     color: #404BBF;
 }
 
-.contacts {
+.contact {
     font-style: normal;
     line-height: 150%;
 }
 
-.contacts:hover, contacts:focus {
+.contact:hover, .contact:focus {
     color: #404BBF;
 }
 
@@ -90,7 +91,6 @@ h3 {
 
 .button {
     background-color: #4D5AE5;
-    display: inline-flex;
     padding: 16px 32px;
     color: #FFF;
     font-weight: 500;
