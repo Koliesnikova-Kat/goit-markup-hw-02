@@ -56,7 +56,6 @@ h3 {
 }
 
 .nav-menu {
-    color: #2E2F42;
     font-weight: 500;
     line-height: 150%;
 }
@@ -105,7 +104,6 @@ h3 {
 }
 
 .advantages {
-    width: 264px;
     line-height: 150%;
 }
 
@@ -149,13 +147,12 @@ h3 {
 }
 
 .studio-footer {
-    color: #2E2F42;
+    color: #F4F4FD;
 }
 
 .footer-text {
     color: #F4F4FD;
     line-height: 150%;
-    width: 264px;
 }
 
 #Contacts {
