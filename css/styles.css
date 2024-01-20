@@ -71,6 +71,7 @@ h3 {
 
 .contact {
     line-height: 150%;
+    color: #434455;
 }
 
 .contact:hover, .contact:focus {
