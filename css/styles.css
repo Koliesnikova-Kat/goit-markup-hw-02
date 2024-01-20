@@ -49,6 +49,7 @@ h3 {
 }
 
 .menu {
+    color: #2E2F42;
     font-weight: 500;
     line-height: 150%;
 }
@@ -69,6 +70,10 @@ h3 {
 
 
 /* main */
+.hero-section {
+    background-color: #2E2F42;
+}
+
 .title {
     color: #FFF;
     text-align: center;
@@ -103,6 +108,10 @@ h3 {
     line-height: 150%;
 }
 
+.our-team {
+    background-color: #F4F4FD;
+}
+
 .team-name {
     text-align: center;
     font-size: 20px;
@@ -131,4 +140,9 @@ h3 {
 .footer-text {
     color: #F4F4FD;
     line-height: 150%;
+    width: 264px;
+}
+
+#Contacts {
+    background-color: #2E2F42;
 }
