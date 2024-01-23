@@ -1,5 +1,11 @@
 /* =======TAGS======= */
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 body {
     color:#434455;
     background-color:#FFF;
@@ -35,6 +41,10 @@ h3 {
     line-height: 1.20;
     letter-spacing: 0.02em;
     color: #2E2F42;
+}
+
+img {
+	display: block;
 }
 
 /* ============== */
